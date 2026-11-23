@@ -1,0 +1,20 @@
+{
+  "date_format": "%d.%m.%Y",
+  "dayfirst": true,
+  "columns": {
+    "row_id": "ID pozycji",
+    "order_id": "Numer zamówienia",
+    "order_date": "Data zamówienia",
+    "sku": "SKU",
+    "product_name": "Nazwa oferty",
+    "category": "Kategoria",
+    "sales": "Wartość sprzedaży",
+    "quantity": "Sztuki",
+    "returned": "Zwrot"
+  },
+  "cost_columns": {
+    "sku": "SKU",
+    "product_name": "Nazwa oferty",
+    "unit_cost": "Koszt jednostkowy"
+  }
+}
